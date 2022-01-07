@@ -4,7 +4,6 @@
   <groupId>com.multiicon</groupId>
   <artifactId>bontontavel</artifactId>
   <version>1.0.0</version>
-  <extensions>true</extensions>
   <type>aar</type>
   <packaging>aar</packaging>
   <dependencies>
